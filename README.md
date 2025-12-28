@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Trabalho Prático II  
 ## Integração de Sistemas de Informação
 
