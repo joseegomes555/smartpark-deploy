@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+**/bin/
+**/obj/
+
+# NuGet classic (packages.config)
+src/packages/
+**/packages/
+
+# Logs / temp
+*.log
+*.cache
+
+# Config local (não subir secrets)
+**/appsettings.Development.json
+**/Web.Debug.config
